@@ -1,1 +1,9 @@
-
+{
+  products:[
+    {
+      id:1,
+      name: "Macbook Pro",
+      price: 300000
+    }
+  ]
+}

@@ -1,9 +1,126 @@
 {
-  "products":[
-    {
-      "id":1,
-      "name": "Macbook Pro",
-      "price": 300000
-    }
-  ]
+  "products":
+  [
+  {
+    "id": 1,
+    "title": "Smartphone X1",
+    "description": "Brand new flagship smartphone with cutting-edge features and powerful performance.",
+    "price": 899,
+    "discountPercentage": 5.0,
+    "rating": 4.8,
+    "stock": 30,
+    "brand": "TechGadget",
+    "category": "technology",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+  },
+  {
+    "id": 2,
+    "title": "UltraBook Pro",
+    "description": "Slim and lightweight ultrabook with a high-resolution display and extended battery life.",
+    "price": 1299,
+    "discountPercentage": 10.0,
+    "rating": 4.6,
+    "stock": 20,
+    "brand": "InnoTech",
+    "category": "technology",
+    "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Virtual Reality Headset VRX",
+    "description": "Immersive virtual reality experience with advanced motion tracking and HD optics.",
+    "price": 349,
+    "discountPercentage": 8.5,
+    "rating": 4.4,
+    "stock": 15,
+    "brand": "VRWorld",
+    "category": "technology",
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Smart Home Hub H2",
+    "description": "Centralized smart home hub for seamless control of connected devices and automation.",
+    "price": 199,
+    "discountPercentage": 7.0,
+    "rating": 4.5,
+    "stock": 25,
+    "brand": "SmartLiving",
+    "category": "technology",
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Gaming Console G3",
+    "description": "Next-gen gaming console with 4K graphics, high-speed SSD, and a vast game library.",
+    "price": 499,
+    "discountPercentage": 12.0,
+    "rating": 4.9,
+    "stock": 12,
+    "brand": "GameMaster",
+    "category": "technology",
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Wireless Noise-Canceling Earbuds",
+    "description": "Premium earbuds with active noise cancellation for an enhanced audio experience.",
+    "price": 149,
+    "discountPercentage": 6.5,
+    "rating": 4.7,
+    "stock": 18,
+    "brand": "AudioZen",
+    "category": "technology",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.jpg"
+  },
+  {
+    "id": 7,
+    "title": "4K Ultra HD Smart TV",
+    "description": "Smart TV with a stunning 4K resolution, built-in streaming apps, and voice control.",
+    "price": 899,
+    "discountPercentage": 9.0,
+    "rating": 4.6,
+    "stock": 22,
+    "brand": "VisionTech",
+    "category": "technology",
+    "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Compact Drone D1",
+    "description": "Compact drone with HD camera, intelligent flight modes, and easy-to-use controls.",
+    "price": 249,
+    "discountPercentage": 8.0,
+    "rating": 4.3,
+    "stock": 20,
+    "brand": "SkyTech",
+    "category": "technology",
+    "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Portable Bluetooth Speaker",
+    "description": "High-quality portable speaker with Bluetooth connectivity and long-lasting battery life.",
+    "price": 79,
+    "discountPercentage": 5.5,
+    "rating": 4.2,
+    "stock": 30,
+    "brand": "SoundWave",
+    "category": "technology",
+    "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+  },
+  {
+    "id": 10,
+    "title": "High-Performance Graphics Card",
+    "description": "Graphics card with advanced GPU architecture for smooth gaming and content creation.",
+    "price": 499,
+    "discountPercentage": 10.0,
+    "rating": 4.8,
+    "stock": 15,
+    "brand": "PowerGraph",
+    "category": "technology",
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg"
+  }
+]
+
 }
